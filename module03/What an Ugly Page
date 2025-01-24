@@ -1,0 +1,43 @@
+<header>
+<h1>What an Ugly Page!</h1>
+<p>There's plenty of room for growth</p>
+</header>
+
+<nav></nav>
+
+<main>
+<section>
+<article>
+<h2>Lorem Ipsum</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu arcu tristique, convallis urna quis, condimentum tellus.
+Ut sollicitudin, tortor a mollis varius, magna orci rutrum arcu, ac scelerisque lorem nisi id nisi. Morbi a porttitor nisi. 
+Integer et erat nibh. Vivamus auctor pretium ligula, non posuere justo molestie ut.
+Maecenas at elit non enim elementum semper. Donec convallis suscipit libero. Fusce felis mi, volutpat eget commodo ac, maximus sed nunc. 
+Integer a dignissim nisl, in volutpat ligula. Curabitur est diam, fermentum vitae erat nec, vestibulum scelerisque leo. 
+Pellentesque id nisi imperdiet dolor elementum malesuada. Nunc consequat rutrum turpis, sit amet blandit diam luctus eget.
+Phasellus eu rhoncus augue. Maecenas finibus, arcu id malesuada ultrices, lectus dolor consectetur lacus, ut gravida eros libero sit amet ex. 
+Aenean laoreet blandit libero aliquam congue. Aenean nec ligula non massa dictum pellentesque sed vel neque. Duis molestie tempus nunc sed suscipit.</p>
+
+<p>Curabitur tincidunt enim eu ultrices lacinia. Duis porta, dui eget egestas venenatis, eros dolor imperdiet magna, sed pulvinar metus velit a elit. 
+Nam consectetur accumsan purus, ac ultrices dolor efficitur quis.
+Maecenas molestie, erat quis viverra congue, diam odio sodales elit, nec ornare ligula tellus vitae mauris. 
+Nunc auctor fermentum tellus volutpat euismod. 
+Vivamus viverra urna in arcu consectetur, quis finibus metus accumsan. 
+Aenean ornare id diam eget elementum. Vestibulum interdum nisl vel erat mattis molestie.
+Sed eu feugiat purus, pulvinar pellentesque ligula. Pellentesque quis erat enim.</p>
+</article>
+</section>
+
+<section>
+<article></article>
+<article></article>
+</section>
+
+</main>
+
+<aside>
+<section></section>
+<section></section>
+</aside>
+
+<footer>
