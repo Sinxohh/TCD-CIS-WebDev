@@ -67,11 +67,11 @@ a {
 }
 
 a:visited {
-  color: black;
+  color: white;
 }
 
 a:hover {
-  color: brown;
+  color: yellow;
 }
 
 a:active {
