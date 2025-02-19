@@ -67,7 +67,7 @@ ul {
 }
 
 ul:visited {
-  color: black;
+  color: orange;
 }
 
 ul:hover {
