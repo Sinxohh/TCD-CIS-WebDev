@@ -63,7 +63,7 @@ html * {
 # Navigation
 --------------------------------------------------------------*/
 ul {
-  color: blue;
+  color: black;
 }
 
 ul:visited {
@@ -71,11 +71,11 @@ ul:visited {
 }
 
 ul:hover {
-  color: grey;
+  color: blue;
 }
 
 ul:active {
-  color: brown;
+  color: green;
 }
 /*--------------------------------------------------------------
 # Header Area
