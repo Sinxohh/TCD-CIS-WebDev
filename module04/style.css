@@ -70,7 +70,7 @@ ul:visited {
   color: orange;
 }
 
-ul:hover {
+li:hover {
   color: blue;
 }
 
