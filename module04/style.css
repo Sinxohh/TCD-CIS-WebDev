@@ -63,15 +63,15 @@ html * {
 # Navigation
 --------------------------------------------------------------*/
 ul {
-  color: black;
+  color: blue;
 }
 
 ul:visited {
-  color: white;
+  color: black;
 }
 
 ul:hover {
-  color: yellow;
+  color: grey;
 }
 
 ul:active {
