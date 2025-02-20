@@ -58,7 +58,7 @@ main {
 	width: 70%;
 	float: left;
 	padding: 10px;
-	border-color: green;
+	border-right: 1px solid blue;
 }
 /*--------------------------------------------------------------
 # Navigation
