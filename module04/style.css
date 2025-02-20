@@ -63,19 +63,19 @@ main{
 /*--------------------------------------------------------------
 # Navigation
 --------------------------------------------------------------*/
-nav {
+nav a {
   color: black;
 }
 
-nav:visited {
+nav a:visited {
   color: yellow;
 }
 
-nav:hover {
+nav a:hover {
   color: blue;
 }
 
-nav:active {
+nav a:active {
   color: green;
 }
 /*--------------------------------------------------------------
