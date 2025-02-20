@@ -63,15 +63,15 @@ main {
 /*--------------------------------------------------------------
 # Navigation
 --------------------------------------------------------------*/
-nav a {
+nav ul {
   color: black;
 }
 
-nav a:visited {
+nav ul li:visited {
   color: yellow;
 }
 
-nav a:hover {
+nav ul li:hover {
   color: blue;
 }
 
