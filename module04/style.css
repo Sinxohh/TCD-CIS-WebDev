@@ -81,6 +81,7 @@ nav a:active {
 
 nav ul {
 	list-style-type: square;
+	color: red;
 }
 
 /*--------------------------------------------------------------
