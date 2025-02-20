@@ -63,19 +63,19 @@ html * {
 /*--------------------------------------------------------------
 # Navigation
 --------------------------------------------------------------*/
-li {
+nav {
   color: black;
 }
 
-li:visited {
+nav:visited {
   color: orange;
 }
 
-li:hover {
+nav:hover {
   color: blue;
 }
 
-li:active {
+nav:active {
   color: green;
 }
 /*--------------------------------------------------------------
