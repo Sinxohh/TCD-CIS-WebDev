@@ -65,6 +65,7 @@ main {
 --------------------------------------------------------------*/
 nav ul {
   color: black;
+  list-style-type: square;
 }
 
 nav ul li:visited {
@@ -79,10 +80,7 @@ nav a:active {
   color: green;
 }
 
-nav ul {
-	list-style-type: square;
-	color: red;
-}
+
 
 /*--------------------------------------------------------------
 # Header Area
