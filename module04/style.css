@@ -68,7 +68,7 @@ nav ul {
 }
 
 nav ul li:visited {
-  color: yellow;
+  color: purple;
 }
 
 nav ul li:hover {
@@ -78,6 +78,11 @@ nav ul li:hover {
 nav a:active {
   color: green;
 }
+
+nav ul {
+	list-style-type: square;
+}
+
 /*--------------------------------------------------------------
 # Header Area
 --------------------------------------------------------------*/
