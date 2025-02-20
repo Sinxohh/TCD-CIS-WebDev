@@ -55,7 +55,7 @@ html * {
 # General Elements
 --------------------------------------------------------------*/
 main{
-	width; 70%
+	width: 70%;
 	float: left;
 	padding: 10px;
 	border-color: green;
