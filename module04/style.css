@@ -68,11 +68,11 @@ nav ul {
   list-style-type: square;
 }
 
-nav ul li:visited {
+nav a:visited {
   color: purple;
 }
 
-nav ul li:hover {
+nav a:hover {
   color: blue;
 }
 
