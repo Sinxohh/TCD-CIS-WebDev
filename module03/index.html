@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Picture Example</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <figure>
+        <picture>
+            <!-- Small preferred -->
+            <source srcset="image-small.webp" type="image/webp" media="(max-width: 600px)">
+            <!-- Small fallback -->
+            <source srcset="image-small.jpg" type="image/jpeg" media="(max-width: 600px)">
+            <!-- Large preferred -->
+            <source srcset="image-large.webp" type="image/webp">
+            <!-- Large fallback -->
+            <source srcset="image-large.jpg" type="image/jpeg">
+            <!-- Default fallback image -->
+            <img src="image-large.jpg" alt="A descriptive caption for the image">
+        </picture>
+        <figcaption>A descriptive caption for the image.</figcaption>
+    </figure>
+</body>
+</html>
